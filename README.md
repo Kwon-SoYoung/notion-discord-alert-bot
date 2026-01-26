@@ -13,9 +13,10 @@ Notion 데이터베이스의 할 일을 Discord로 자동으로 전송하는 봇
 - 💬 **메시지 재사용**: 같은 날짜면 새 메시지가 아닌 기존 메시지 수정
 
 ## 📸 미리보기
+<img width="249" height="405" alt="Image" src="https://github.com/user-attachments/assets/c45e6f98-f542-45a3-8891-8e84742d1d17" />
 
 Discord에 이런 형태로 표시됩니다:
-<img width="249" height="405" alt="Image" src="https://github.com/user-attachments/assets/c45e6f98-f542-45a3-8891-8e84742d1d17" />
+
 ```
 📅 2026-01-26
 
